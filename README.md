@@ -29,22 +29,28 @@
 
 ### 🚀 About Me
 
-I’m Mariyyah, a UI/UX designer pursuing a B.Sc. in Human–Computer Interaction at Umm Al-Qura University.
-
-I design clear, inclusive, and human-centered interfaces, transforming research insights into tested, shippable digital products.
-
-My work bridges design and technology, combining user empathy with system thinking and web fundamentals to build experiences that truly serve people.
-
+<table>
+  <tr>
+    <td width="45%" align="left">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGpkdWRieXZiNjd5bDJ2a2h3bzA1Zmh4dTQ4YzZhYW5wYmV6dWxncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wOVI5wW1cSzWfU0rLj/giphy.gif" width="100%" />
+    </td>
+    <td width="55%" align="left">
+      <p>
+        👋 I’m Mariyyah, a UI/UX designer pursuing a B.Sc. in Human–Computer Interaction at Umm Al-Qura University.<br/><br/>
+        🎨 I design clear, inclusive, and human-centered interfaces, transforming research insights into tested, shippable digital products.<br/><br/>
+        📱 My work bridges design and technology, combining user empathy with system thinking and web fundamentals to build experiences that truly serve people.
+        
 What I do:
-
 * **UX Research:** interviews, surveys, usability testing, and insight synthesis.
 * **UI & Design Systems:** Figma, components, tokens, and responsive layouts.
 * Interaction & Prototyping – user flows, wireframes, and high-fidelity prototypes.
 * **Inclusive Design:** Arabic-first UX and WCAG-aware accessibility decisions.
 * **System Thinking & Handoff:** information architecture and developer-ready specs.
 * **Web Awareness:** HTML/CSS/JS familiarity and database-conscious design.
-
-<br clear="right"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
