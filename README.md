@@ -64,7 +64,7 @@ Always curious about how people think, feel, and interact, and how design can br
 </div>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=HTML,CSS,js,react,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,figma&theme=dark" />
 </div>
 
 ---
