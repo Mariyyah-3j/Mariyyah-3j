@@ -27,7 +27,7 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 <table>
   <tr>
@@ -40,13 +40,11 @@
         🎨 I design clear, inclusive, and human-centered interfaces, transforming research insights into tested, shippable digital products.<br/><br/>
         📱 My work bridges design and technology, combining user empathy with system thinking and web fundamentals to build experiences that truly serve people.
         
-What I do:
-* **UX Research:** interviews, surveys, usability testing, and insight synthesis.
-* **UI & Design Systems:** Figma, components, tokens, and responsive layouts.
-* Interaction & Prototyping – user flows, wireframes, and high-fidelity prototypes.
-* **Inclusive Design:** Arabic-first UX and WCAG-aware accessibility decisions.
-* **System Thinking & Handoff:** information architecture and developer-ready specs.
-* **Web Awareness:** HTML/CSS/JS familiarity and database-conscious design.
+### What I do:
+* **UX Research:** testing, insights, and validation.
+* **UI & Prototyping:** design systems, flows, and high-fidelity screens.
+* **Inclusive Design:** Arabic-first, accessible experiences.
+* **System Thinking:** structured IA, handoff, and web-aware design.
       </p>
     </td>
   </tr>
@@ -54,7 +52,7 @@ What I do:
 
 ---
 
-### 💼 Professional Experience
+## 💼 Professional Experience
 
 | Project | Role | Description |
 | :--- | :--- | :--- |
@@ -63,7 +61,7 @@ What I do:
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb,git,github&theme=dark" />
@@ -75,6 +73,6 @@ What I do:
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 (Growing with every project I build 🚀)
